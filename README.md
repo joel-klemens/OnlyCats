@@ -30,4 +30,4 @@ HTTP endpoint .Net Framework
 ## Additions to be made given more time
 
 -   Use some sort of API documentation generation tool to fully document the API
--   Given more requirements fully flesh out a CRUD API revolving around feline information.
+-   Given more requirements fully flesh out a CRUD API revolving around feline information
