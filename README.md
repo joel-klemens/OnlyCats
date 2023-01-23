@@ -22,3 +22,12 @@ HTTP endpoint .Net Framework
 
 1.  In the solution click "Run All Tests" from the test menu dropdown
 2.  This will run a unittest to confirm that the endpoint responds with Ok status code and did properly convert "dog" to "cat"
+
+## Limitations
+
+-   Does not account for capital letters when looking for the string "dog", however, the goal was to look for the exact string "dog". Unsure if this is a limitation.
+
+## Additions to be made given more time
+
+-   Use some sort of API documentation generation tool to fully document the API
+-   Given more requirements fully flesh out a CRUD API revolving around feline information.
