@@ -31,3 +31,4 @@ HTTP endpoint .Net Framework
 
 -   Use some sort of API documentation generation tool to fully document the API
 -   Given more requirements fully flesh out a CRUD API revolving around feline information
+-   Front end for a user to test different API calls and view the responses 
